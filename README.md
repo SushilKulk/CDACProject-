@@ -1,2 +1,2 @@
 # CDACProject-
-Malware detection using Machine Learning technic.
+Malware detection using Machine Learning technics.
